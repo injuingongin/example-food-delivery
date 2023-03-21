@@ -1,17 +1,17 @@
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 1. 이벤스 스토밍
+
 ![image](https://user-images.githubusercontent.com/124846867/226520780-4e2bc1dd-eecf-486b-b33c-3731c65ee307.png)
 
 2. CQRS
+
 ![image](https://user-images.githubusercontent.com/124846867/226524056-70997bad-89dd-49be-a92d-098062b4a13b.png)
 ![image](https://user-images.githubusercontent.com/124846867/226524093-8e16cd37-a72a-496d-879b-665eee0839f4.png)
 ![image](https://user-images.githubusercontent.com/124846867/226524118-55d04e34-8e58-42ff-98f6-c416982efb78.png)
 
-
-
 3. Compensation / Correlation
-![image](https://user-images.githubusercontent.com/124846867/226523591-cdcb9868-c4ab-49ee-a82a-282dc0f1e5cf.png)
 
+![image](https://user-images.githubusercontent.com/124846867/226523591-cdcb9868-c4ab-49ee-a82a-282dc0f1e5cf.png)
 
 
 
