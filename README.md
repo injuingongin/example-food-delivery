@@ -12,9 +12,7 @@
 3. Compensation / Correlation
 ![image](https://user-images.githubusercontent.com/124846867/226523591-cdcb9868-c4ab-49ee-a82a-282dc0f1e5cf.png)
 
-주문 성공
-주문 취소
-주문시 가게에서 거절
+
 
 
 # 예제 - 음식배달
